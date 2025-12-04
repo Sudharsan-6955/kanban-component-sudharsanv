@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    ".vercelignore": "plaintext",
+    ".gitignore": "plaintext",
+    ".eslintignore": "plaintext",
+    ".prettierignore": "plaintext"
+  }
+}
