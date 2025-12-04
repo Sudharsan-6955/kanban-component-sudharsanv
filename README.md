@@ -3,9 +3,9 @@
 A fully reusable and modular Kanban Board UI component built with React and documented using Storybook.
 This component supports drag-and-drop functionality, customizable columns, dynamic card rendering, and can be integrated into any frontend project that requires task management or workflow visualization.
 
-🔗 Live Storybook Demo: https://kanban-component-sigma.vercel.app/
+🔗 Live Storybook Demo: https://kanban-component-2yt6.vercel.app/
 
-🔗 GitHub Repository: https://github.com/Sudharsan-6955/kanban-component
+🔗 GitHub Repository: https://github.com/Sudharsan-6955/kanban-component-sudharsanv
 
 ✨ Features
 
@@ -45,7 +45,7 @@ Vercel (Deployment)
 
 Follow these steps to run the project locally:
 
-git clone https://github.com/Sudharsan-6955/kanban-component
+git clone https://github.com/Sudharsan-6955/kanban-component-sudharsanv.git
 cd kanban-component
 npm install
 npm run storybook
@@ -104,8 +104,7 @@ Storybook ensures that the component can be visually tested and verified easily.
 The Storybook build is deployed on Vercel for easy access and review.
 All stories load correctly and reflect exact component behavior.
 
-🔗 Live Demo: https://kanban-component-sigma.vercel.app/
-
+🔗 Live Demo: https://kanban-component-2yt6.vercel.app/
 👨‍💻 Project Purpose
 
 This project was created as part of the Internshala Frontend Assignment to demonstrate:
