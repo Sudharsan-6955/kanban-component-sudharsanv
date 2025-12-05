@@ -3,7 +3,9 @@
 A fully reusable and modular Kanban Board UI component built with React and documented using Storybook.
 This component supports drag-and-drop functionality, customizable columns, dynamic card rendering, and can be integrated into any frontend project that requires task management or workflow visualization.
 
-🔗 Live Storybook Demo: https://kanban-component-2yt6.vercel.app/
+🔗 Live Storybook Demo (Chromatic): https://main--693243cfb9b3531598e78b08.chromatic.com/
+
+🔗 Live Application Demo: https://kanban-component-2yt6.vercel.app/
 
 🔗 GitHub Repository: https://github.com/Sudharsan-6955/kanban-component-sudharsanv
 
@@ -122,3 +124,7 @@ Deployment & testing workflow
 📝 License
 
 This project is open-source and available under the MIT License.
+
+---
+
+✅ **Final Action:** Storybook successfully published to Chromatic. The public link (https://main--693243cfb9b3531598e78b08.chromatic.com/) is accessible without login and ready for review.
